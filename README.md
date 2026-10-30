@@ -1,6 +1,6 @@
 # Data2D: density-stratified 2D maps for path-planning benchmarking
 
-This repository contains the code that generates, benchmarks and checks the Data2D dataset, described in "A density-stratified dataset of synthetic two-dimensional obstacle maps and path-planning records" by Nguyen Hai Long, Hoang Chi Hien, Pham Quang Toan, Nguyen Duc Trung and Nguyen Kieu Linh. The dataset itself is on Zenodo: https://doi.org/10.5281/zenodo.23536033.
+This repository contains the code that generates, benchmarks and checks the Data2D dataset, described in "A density-stratified dataset of synthetic two-dimensional obstacle maps and path-planning records" by Nguyen Hai Long, Hoang Chi Hien, Pham Quang Toan, Nguyen Duc Trung and Nguyen Kieu Linh. The dataset itself is on Zenodo: https://doi.org/10.5281/zenodo.23795405.
 
 The pipeline
 
@@ -96,7 +96,7 @@ If you use this code or dataset in your research, please cite:
 
 Nguyen, H. L., Hoang, C. H., Pham, Q. T., Nguyen, D. T., & Nguyen, K. L. (2026).
 "Data2D: density-stratified synthetic two-dimensional maps and path-planning records".
-Zenodo. https://doi.org/10.5281/zenodo.23536033
+Zenodo. https://doi.org/10.5281/zenodo.23795405
 
 and the associated article:
 
